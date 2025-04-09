@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dl\\degreeprogramdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\ui\\degreeprogramui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\ui\\subjectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\bl\\degreeprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\bl\\degreeprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\bl\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\bl\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|d:\\sem2\\db\\midproject\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CBD663-ECC9-4745-BD30-A0D090A8B11A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DegreeProgramDL.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\DL\\DegreeProgramDL.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\DL\\DegreeProgramDL.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\DL\\DegreeProgramDL.cs",
+              "RelativeToolTip": "StudentManagement\\DL\\DegreeProgramDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:43:45.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectUI.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\UI\\SubjectUI.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\UI\\SubjectUI.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\UI\\SubjectUI.cs",
+              "RelativeToolTip": "StudentManagement\\UI\\SubjectUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:29:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DegreeProgramUI.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\UI\\DegreeProgramUI.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\UI\\DegreeProgramUI.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\UI\\DegreeProgramUI.cs",
+              "RelativeToolTip": "StudentManagement\\UI\\DegreeProgramUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:56:52.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\UI\\StudentUI.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\UI\\StudentUI.cs",
+              "RelativeToolTip": "StudentManagement\\UI\\StudentUI.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:29:02.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\DL\\StudentDL.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\DL\\StudentDL.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\DL\\StudentDL.cs",
+              "RelativeToolTip": "StudentManagement\\DL\\StudentDL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:12:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\BL\\Subjects.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\BL\\Subjects.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\BL\\Subjects.cs",
+              "RelativeToolTip": "StudentManagement\\BL\\Subjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:09:31.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DegreePrograms.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\BL\\DegreePrograms.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\BL\\DegreePrograms.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\BL\\DegreePrograms.cs",
+              "RelativeToolTip": "StudentManagement\\BL\\DegreePrograms.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:01:22.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\BL\\Student.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\BL\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\BL\\Student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:51:14.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "D:\\SEM2\\DB\\MidProject\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:49:18.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

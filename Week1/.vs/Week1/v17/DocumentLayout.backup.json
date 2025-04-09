@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM2\\OOPSLAB\\Week1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76900BB6-E17E-4E54-A30C-4281FCC38AF9}|Week1\\Week1.csproj|d:\\sem2\\oopslab\\week1\\week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76900BB6-E17E-4E54-A30C-4281FCC38AF9}|Week1\\Week1.csproj|solutionrelative:week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76900BB6-E17E-4E54-A30C-4281FCC38AF9}|Week1\\Week1.csproj|d:\\sem2\\oopslab\\week1\\week1\\abc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76900BB6-E17E-4E54-A30C-4281FCC38AF9}|Week1\\Week1.csproj|solutionrelative:week1\\abc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abc.cs",
+              "DocumentMoniker": "D:\\SEM2\\OOPSLAB\\Week1\\Week1\\Abc.cs",
+              "RelativeDocumentMoniker": "Week1\\Abc.cs",
+              "ToolTip": "D:\\SEM2\\OOPSLAB\\Week1\\Week1\\Abc.cs",
+              "RelativeToolTip": "Week1\\Abc.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:15:48.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM2\\OOPSLAB\\Week1\\Week1\\Program.cs",
+              "RelativeDocumentMoniker": "Week1\\Program.cs",
+              "ToolTip": "D:\\SEM2\\OOPSLAB\\Week1\\Week1\\Program.cs",
+              "RelativeToolTip": "Week1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:15:04.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

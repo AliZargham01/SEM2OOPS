@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM2\\OOPSLAB\\Week2\\Challenge2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC009B94-8C1E-4054-996D-B982F2C695A7}|Challenge2\\Challenge2.csproj|d:\\sem2\\oopslab\\week2\\challenge2\\challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC009B94-8C1E-4054-996D-B982F2C695A7}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC009B94-8C1E-4054-996D-B982F2C695A7}|Challenge2\\Challenge2.csproj|d:\\sem2\\oopslab\\week2\\challenge2\\challenge2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC009B94-8C1E-4054-996D-B982F2C695A7}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SEM2\\OOPSLAB\\Week2\\Challenge2\\Challenge2\\Product.cs",
+              "RelativeDocumentMoniker": "Challenge2\\Product.cs",
+              "ToolTip": "D:\\SEM2\\OOPSLAB\\Week2\\Challenge2\\Challenge2\\Product.cs",
+              "RelativeToolTip": "Challenge2\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:43:30.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM2\\OOPSLAB\\Week2\\Challenge2\\Challenge2\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge2\\Program.cs",
+              "ToolTip": "D:\\SEM2\\OOPSLAB\\Week2\\Challenge2\\Challenge2\\Program.cs*",
+              "RelativeToolTip": "Challenge2\\Program.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:42:14.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

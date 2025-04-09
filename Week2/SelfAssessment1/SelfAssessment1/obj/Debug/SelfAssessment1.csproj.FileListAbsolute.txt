@@ -1,0 +1,7 @@
+D:\SEM2\OOPSLAB\Week2\SelfAssessment1\SelfAssessment1\bin\Debug\SelfAssessment1.exe.config
+D:\SEM2\OOPSLAB\Week2\SelfAssessment1\SelfAssessment1\bin\Debug\SelfAssessment1.exe
+D:\SEM2\OOPSLAB\Week2\SelfAssessment1\SelfAssessment1\bin\Debug\SelfAssessment1.pdb
+D:\SEM2\OOPSLAB\Week2\SelfAssessment1\SelfAssessment1\obj\Debug\SelfAssessment1.csproj.AssemblyReference.cache
+D:\SEM2\OOPSLAB\Week2\SelfAssessment1\SelfAssessment1\obj\Debug\SelfAssessment1.csproj.CoreCompileInputs.cache
+D:\SEM2\OOPSLAB\Week2\SelfAssessment1\SelfAssessment1\obj\Debug\SelfAssessment1.exe
+D:\SEM2\OOPSLAB\Week2\SelfAssessment1\SelfAssessment1\obj\Debug\SelfAssessment1.pdb

@@ -1,0 +1,7 @@
+C:\Users\AWAIS\source\repos\MessagingSystem\obj\Debug\MailSystem.csproj.AssemblyReference.cache
+C:\Users\AWAIS\source\repos\MessagingSystem\obj\Debug\MailSystem.csproj.CoreCompileInputs.cache
+C:\Users\AWAIS\source\repos\MessagingSystem\bin\Debug\MessagingSystem.exe.config
+C:\Users\AWAIS\source\repos\MessagingSystem\bin\Debug\MessagingSystem.exe
+C:\Users\AWAIS\source\repos\MessagingSystem\bin\Debug\MessagingSystem.pdb
+C:\Users\AWAIS\source\repos\MessagingSystem\obj\Debug\MessagingSystem.exe
+C:\Users\AWAIS\source\repos\MessagingSystem\obj\Debug\MessagingSystem.pdb

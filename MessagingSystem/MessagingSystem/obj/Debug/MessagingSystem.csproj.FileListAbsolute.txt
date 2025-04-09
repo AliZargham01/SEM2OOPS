@@ -1,0 +1,14 @@
+C:\Users\AWAIS\source\repos\MessagingSystem\bin\Debug\MessagingSystem.exe.config
+C:\Users\AWAIS\source\repos\MessagingSystem\bin\Debug\MessagingSystem.exe
+C:\Users\AWAIS\source\repos\MessagingSystem\bin\Debug\MessagingSystem.pdb
+C:\Users\AWAIS\source\repos\MessagingSystem\obj\Debug\MessagingSystem.csproj.AssemblyReference.cache
+C:\Users\AWAIS\source\repos\MessagingSystem\obj\Debug\MessagingSystem.csproj.CoreCompileInputs.cache
+C:\Users\AWAIS\source\repos\MessagingSystem\obj\Debug\MessagingSystem.exe
+C:\Users\AWAIS\source\repos\MessagingSystem\obj\Debug\MessagingSystem.pdb
+C:\Users\AWAIS\Desktop\oop\Starter\MessagingSystem\bin\Debug\MessagingSystem.exe.config
+C:\Users\AWAIS\Desktop\oop\Starter\MessagingSystem\bin\Debug\MessagingSystem.exe
+C:\Users\AWAIS\Desktop\oop\Starter\MessagingSystem\bin\Debug\MessagingSystem.pdb
+C:\Users\AWAIS\Desktop\oop\Starter\MessagingSystem\obj\Debug\MessagingSystem.csproj.AssemblyReference.cache
+C:\Users\AWAIS\Desktop\oop\Starter\MessagingSystem\obj\Debug\MessagingSystem.csproj.CoreCompileInputs.cache
+C:\Users\AWAIS\Desktop\oop\Starter\MessagingSystem\obj\Debug\MessagingSystem.exe
+C:\Users\AWAIS\Desktop\oop\Starter\MessagingSystem\obj\Debug\MessagingSystem.pdb
